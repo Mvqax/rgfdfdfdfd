@@ -1,0 +1,55 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Jan 2022 19:56:59 at https://replit.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://replit.com/ -O1 "C:\Users\Chad2\Downloads\ayo" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:01:12	Warning: 	Link https://replit.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+20:05:50	Error: 	"Service Temporarily Unavailable" (503) at link https://replit.com/talk/all (from https://replit.com/site/community)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/teamsDashboard (from https://replit.com/site/teams)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/amjad.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/haya.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/mason.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/faris.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/moudy.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/jeremy.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/tyler.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/dan.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/patrick.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/sergeichestakov.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/obaida.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/meghan.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/connor.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/zach.jpg?' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/luis.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/tiga.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/derrick.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/matt.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/tabish.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/lena.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/brittany.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/alex.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/phoenix.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/dan_f.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/barron.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/laima.jpeg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/soren.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/shane.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/mikehadley.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/kenton.jpg' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/reza.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/zwack.png' (from https://replit.com/site/about)
+20:05:50	Error: 	"Not Found" (404) at link https://replit.com/site/'https://cms.replit.com/assets/about/piero.jpg' (from https://replit.com/site/about)
+20:30:23	Error: 	Exit requested by shell or user
+20:30:32	Error: 	Exit requested by shell or user
+20:30:32	Error: 	"" (-1) at link https://replit.com/@tbfjay (from https://replit.com/@OwenBlack/Stock-Market-Game)
+20:30:32	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 minutes 33 seconds : 2483 links scanned, 2166 files written (666023674 bytes overall) [258244255 bytes received at 128288 bytes/sec], 627981056 bytes transferred using HTTP compression in 1909 files, ratio 19%, 13.9 requests per connection
+(39 errors, 1 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
